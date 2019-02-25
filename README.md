@@ -1,7 +1,7 @@
 # siftbot
 A bot to search stolen data on discord.
 
-##Usage:
+##Usage: ##
 Create a folder called "databases" and put your files with data inside it.
 
 Run the bot with python3 siftbot.py
