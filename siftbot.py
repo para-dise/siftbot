@@ -5,7 +5,7 @@ owner_id = "your discord user ID"
 
 startup_extensions = ["sift"]
 
-bot = commands.Bot(command_prefix='$', description=description)
+bot = commands.Bot(command_prefix='$', description="")
 
 def is_owner():
     def predicate(ctx):
